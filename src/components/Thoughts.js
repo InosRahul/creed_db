@@ -68,7 +68,7 @@ const Thoughts = () => {
                 rel="noreferrer">
              <i className="fa fa-twitter"></i>
             </a>
-            <a  href={`https://github.com/InosRahul/creed_db`} className="button"
+            <a  href={`https://github.com/InosRahul/random-creed-lines`} className="button"
                 id="github-button"
                 title="Github"
                 target="_blank"
