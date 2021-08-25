@@ -7,7 +7,8 @@ const Thoughts = () => {
     const [episode, setEpisode] = useState('');
     const [color, setColor] = useState('#9b59b6');
     useEffect(() => {
-        getNewThought();
+        getNewThought()
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     var colors = [
