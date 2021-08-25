@@ -1,4 +1,4 @@
-import  "./Thoughts.scss";
+import  "./Thoughts.css";
 import React, { useState, useEffect } from "react";
 
 const Thoughts = () => {
@@ -51,13 +51,13 @@ const Thoughts = () => {
 
     return (
         
-        <div id="thought-box" className="thought-box" >
+        <div className="thought-box" >
              <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-            <div id="thought-text" className="thought-text" >
+            <div className="thought-text" >
                 <p>{thought}</p>
             
             </div>
-            <div id="thought-info" className="thought-info">
+            <div className="thought-info">
                 <p>Season - {season} Episode - {episode}</p>
             </div>
             <div className="buttons">
@@ -76,7 +76,7 @@ const Thoughts = () => {
              <i className="fa fa-github"></i>
             </a>
             <button id="new-thought" className="button" onClick={handleClick}>
-                New thought
+                New Line
             </button>
 
            
