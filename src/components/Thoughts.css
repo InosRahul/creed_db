@@ -8,8 +8,6 @@
 }
 i {
   font-size: 16px;
-  text-align: center;
-
 }
     .thought-text {
      
@@ -50,9 +48,9 @@ i {
         #tweet-quote {
           float: left;
           padding: 0px;
+          padding-top: 8px;
           font-size: 20px;
           text-align: center;
-          align-content: center;
           margin-right: 5px;
           height: 30px;
           width: 40px;
@@ -60,6 +58,7 @@ i {
         #github-button {
           float: left;
           padding: 0px;
+          padding-top: 8px;
           font-size: 20px;
           text-align: center;
           margin-right: 5px;
