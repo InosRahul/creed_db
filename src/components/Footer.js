@@ -9,7 +9,7 @@ const Footer = () => {
 
     <div className="footer">
     
-        <h3>Made by Rahul Soni</h3>
+        <h3>Made with 💛 by an Office Fan.</h3>
         
     </div>
 
