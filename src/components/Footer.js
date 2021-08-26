@@ -18,6 +18,7 @@ const Footer = () => {
                     </a>
                 </button>
         </div>
+        <h3>Made with 💛 by an Office Fan.</h3>
         </div>
     )
 }

@@ -46,7 +46,7 @@ const Thoughts = () => {
     
     const handleClick = () => {
         getNewThought();
-        document.body.style.backgroundColor = color;
+        document.querySelector('body').style.backgroundColor = color;
     }
 
     return (

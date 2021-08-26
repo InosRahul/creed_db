@@ -5,6 +5,14 @@
     font-size: 12px;
 }
 
+h3 {
+  text-align: center;
+  color: #fff;
+  display: block;
+  font-size: 18px;
+  margin: 15px auto 30px auto;
+}
+
 a {
     font-weight: 500;
     text-decoration: none;
