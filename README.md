@@ -4,9 +4,9 @@ Created with ```create-react-app```
 
 Dataset - [The office dialogue kaggle dataset](https://www.kaggle.com/nasirkhalid24/the-office-us-complete-dialoguetranscript "The office kaggle dataset")
 
-Git branch ```browser_extension```
+Git branch ```main```
 
-Extension Link - []()
+Extension Link - [FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/creeds-thoughts/)
 
 Webapp Link - [Random Creed Lines](https://random-creed-lines.netlify.app/)
 
