@@ -76,7 +76,7 @@ const Thoughts = () => {
              <i className="fa fa-github"></i>
             </a>
             <button id="new-thought" className="button" onClick={handleClick}>
-                New thought
+                New line
             </button>
 
            
